@@ -4,27 +4,27 @@
 
 ## Description
 
-2
+The purpose of this application is the automatic generation of a professional template for a README.md file. The application was constructed using packages such as Node.js and InquirerJS and functions entirely in the terminal.
 
 ## Installation Instruction
 
-3
+Thanks to Node Package Manager, everything required to install and run the application is contained internally. Simply open the terminal and run the command npm install.
 
 ## Usage Information
 
-4
+To use the application, simply run the index.js file contained within the Develop folder
 
 ## Contribution Guidelines
 
-5
+Please refer to the License listed below
 
 ## Test Instructions
 
-6
+N/A
 
 ## License
 
-Copyright 2022 Aesthetic-Justice
+  Copyright 2022 Aesthetic-Justice
 
   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
   
